@@ -7,6 +7,6 @@
   >
   <img 
     src="https://raw.githubusercontent.com/jittinabraham/jittinabraham/blob/main/ball_animation.svg" 
-    alt="Contribution Snake"
+   
   >
 </picture>
