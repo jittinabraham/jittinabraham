@@ -5,7 +5,7 @@
   />
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-light.svg"
+    srcset="images/breakout-dark.svg"
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
