@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Simplified to run daily at midnight UTC
   workflow_dispatch:
+    push: # Run on push to main branch
+    branches:
+      - main
 
 jobs:
   generate-svg:
