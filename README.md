@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;C%2B%2B+%7C+Python+%7C+Deep+Learning;Building+things+on+Azure+%26+Kubernetes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Time-Sensitive+Networking+(TSN);Deterministic+Real-Time+Ethernet;IEEE+802.1+%7C+C+%7C+C%2B%2B+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,23 +14,37 @@
 
 ---
 
+### 🌐 What I Work On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Time--Sensitive_Networking-TSN-0B7285?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IEEE-802.1-1864AB?style=for-the-badge&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real--Time-Ethernet-5F3DC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time_Sync-gPTP_%2F_802.1AS-C2255C?style=for-the-badge" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="33%"><b>Languages</b></td>
-    <td align="center" width="33%"><b>ML / AI</b></td>
-    <td align="center" width="33%"><b>Cloud & DevOps</b></td>
+    <td align="center" width="33%"><b>ML & Computer Vision</b></td>
+    <td align="center" width="33%"><b>DevOps & Platforms</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,matlab&perline=3" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,matlab&perline=3" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
+      <br />
+      <img src="https://img.shields.io/badge/Stable--Baselines3-RL-8E44AD?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLMs-Applied-10A37F?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,github&perline=3" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,azure,github&perline=3" />
     </td>
   </tr>
 </table>
