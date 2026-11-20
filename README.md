@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,matlab,tensorflow,github,azure,linux,docker,Kubernetes" />
-     <img src="https://skillicons.dev/icons?i=torch />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,matlab,tensorflow,pytorch,github,azure,linux,docker,kubernetes" />
   </a>
 </p>
 
@@ -11,7 +10,7 @@
     srcset="images/breakout-dark.svg"
   />
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="images/breakout-light.svg"
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
